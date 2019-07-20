@@ -8,9 +8,9 @@
  
  I do a little bit change to the downchirp time so that the system seems to be more harmonious.
  
- By the way, the link laywer was a little bit different from original LORA.
+ By the way, the link layer was a little bit different from original LORA.
  
- The PHY struct looks like:
+ The PHY link struct looks like:
 
 	(Preamble(5 upchirp, 3 downchirp) ->(                                   PHY Payload                                 ))
 
